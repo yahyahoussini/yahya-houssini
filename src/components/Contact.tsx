@@ -44,8 +44,8 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "your.email@example.com",
-      link: "mailto:your.email@example.com"
+      value: "yahyahoussini366@gmail.com",
+      link: "mailto:yahyahoussini366@gmail.com"
     },
     {
       icon: MapPin,
